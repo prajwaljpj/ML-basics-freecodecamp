@@ -1,0 +1,24 @@
+#+title: README
+#+author: Prajwal Rao
+
+* Introduction
+This is a basic crash course of machine learning
+Resource: [[Machine learning for everybody][https://youtu.be/i_LwzRVP7bg?si=MEusNEMdm4u2OsKa].
+Special thanks to Kylie Ying for this course.
+
+* What will it cover
+The course will cover:
+1) Processing Dataset
+2) Supervised Learning
+    - K Nearest Neighbors
+    - Naive Bayes
+    - Logistic Regression
+    - Support Vector Machines
+    - Neural Networks
+3) Unsupervised Learning
+    - Linear Regression
+    - K Means Clustering
+    - Principal Component Analysis
+
+* Notes
+_coming soon_
